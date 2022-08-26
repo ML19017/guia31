@@ -1,0 +1,26 @@
+{
+	"pais": {
+		"nombre": "El Salvador",
+		"moneda": "Colón, Dolar",
+		"codigo_area": "503",
+		"idiomas": "Español",
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Zacatecoluca",
+				"habitantes": "332,000",
+				"altura": "210 MSNM",
+				"_id": "2",
+				"_nombre": "La Paz"
+			}
+		],
+		"_nombre": "El Salvador",
+		"_codigo_area": "503"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"pais": {
+		"moneda": "Colón",
+		"codigo_area": "+503",
+		"idiomas": "Español",
+		"departamento": {
+			"cabecera": "San Salvador",
+			"habitantes": "1,700,000",
+			"altura": "545 MSNM",
+			"_id": "1",
+			"_nombre": "San Salvador"
+		},
+		"_nombre": "El Salvador"
+	}
+}
