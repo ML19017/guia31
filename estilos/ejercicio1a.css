@@ -1,63 +1,64 @@
 /* ejercicio1a.css   ML19017 */
+@charset "UTF-8";
 
 fichero {
-	background-color:gray;
-	color:black;
-	font-size:1em;
-	display:block
+	background-color: gray;
+	color: black;
+	font-size: 1em;
+	display: block;
 }
 
 ficha {
-	background-color:yellow;
-	padding:5px;
-	display:block;
-	border-bottom:solid gray 2px;
+	background-color: yellow;
+	padding: 5px;
+	display: block;
+	border-bottom: solid gray 2px;
 } 
 
 nombre {
 	font-size: 1.3em;
-	display:block;
+	display: block;
 } 
 
 apellido {
 	font-size: 1.3em;
-	display:block;
-	margin-bottom:10px;
+	display: block;
+	margin-bottom: 10px;
 }
 
 direccion {
-	color:purple;
-	display:block;
+	color: purple;
+	display: block;
 }
 
 telefono {
-	color:green;
-	display:block;
-	margin-bottom:10px;
+	color: green;
+	display: block;
+	margin-bottom: 10px;
 }
 
 email {
-	color:blue;
-	display:block;
+	color: blue;
+	display: block;
 }
 
 website {
-	color:blue;
-	display:block;
-	margin-bottom:10px;
+	color: blue;
+	display: block;
+	margin-bottom: 10px;
 }
 
 dui {
-	color:red;
-	display:block;
+	color: red;
+	display: block;
 }
 
 isss {
-	color:red;
-	display:block;
+	color: red;
+	display: block;
 }
 
 afp {
-	color:red;
-	display:block;
+	color: red;
+	display: block;
 }

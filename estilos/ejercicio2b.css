@@ -1,49 +1,50 @@
 /* ejercicio2b.css   ML19017 */
+@charset "UTF-8";
 
-pais {background-color:black;
-	text-align:center;
-	font-size:1em;
-	display:block
+pais {background-color: black;
+	text-align: center;
+	font-size: 1em;
+	display: block;
 }
 
 nombre {
-	color:yellow;
-	display:block;
-	font-size:1.5em
+	color: yellow;
+	font-size: 1.5em;
+	display: block;
 }
 
 moneda {
-	color:yellow;
+	color: yellow;
 }
 
 codigo_area {
-	color:yellow;
+	color: yellow;
 }
 
 idiomas {
-	color:yellow;
+	color: yellow;
 }
 
 departamento {
-	background-color:purple;
+	background-color: purple;
 	border: solid 1px;
-	border-color:yellow;
-	display:block;
-	position:center;
+	border-color: yellow;
+	display: block;
+	position: center;
 }
 
 cabecera {
-	color:white;
-	font-size:1.2em;
-	display:block;
+	color: white;
+	font-size: 1.2em;
+	display: block;
 }
 
 habitantes {
-	color:yellow;
-	display:block;
+	color: yellow;
+	display: block;
 }
 
 altura {
-	color:yellow;
-	display:block;
+	color: yellow;
+	display: block;
 }

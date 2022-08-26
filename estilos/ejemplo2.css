@@ -1,6 +1,27 @@
 /* ejemplo2.css   ML19017 */
-pais {background-color:black;}
-departamento {background-color:purple; display:block;} 
-cabecera {color:white; display:inline;} 
-habitantes {color:yellow; display:inline;}
-altura {color:yellow;font-size:1cm; display:inline;}
+@charset "UTF-8";
+
+pais {
+    background-color: black;
+}
+
+departamento {
+    background-color: purple;
+    display: block;
+} 
+
+cabecera {
+    color: white;
+    display: inline;
+} 
+
+habitantes {
+    color: yellow;
+    display: inline;
+}
+
+altura {
+    color: yellow;
+    font-size: 1cm;
+    display: inline;
+}

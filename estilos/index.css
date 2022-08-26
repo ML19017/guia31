@@ -1,4 +1,6 @@
-/* estilos.css */
+/* index.css */
+@charset "UTF-8";
+
 * {
     padding: 0;
     margin: 0;
@@ -45,5 +47,7 @@ section {
     background-color: white;
     width: 40%;
     margin: 50px auto;
-    box-shadow: 1px 0px 10px rgb(0, 0, 0);
+    box-shadow: 1px 0px 10px black;
+    -webkit-box-shadow: 1px 0px 10px black;
+    -moz-box-shadow: 1px 0px 10px black;
 }
