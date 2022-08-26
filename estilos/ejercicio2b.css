@@ -1,0 +1,49 @@
+/* ejercicio2b.css   ML19017 */
+
+pais {background-color:black;
+	text-align:center;
+	font-size:1em;
+	display:block
+}
+
+nombre {
+	color:yellow;
+	display:block;
+	font-size:1.5em
+}
+
+moneda {
+	color:yellow;
+}
+
+codigo_area {
+	color:yellow;
+}
+
+idiomas {
+	color:yellow;
+}
+
+departamento {
+	background-color:purple;
+	border: solid 1px;
+	border-color:yellow;
+	display:block;
+	position:center;
+}
+
+cabecera {
+	color:white;
+	font-size:1.2em;
+	display:block;
+}
+
+habitantes {
+	color:yellow;
+	display:block;
+}
+
+altura {
+	color:yellow;
+	display:block;
+}

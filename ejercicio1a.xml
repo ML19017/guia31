@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="estilos/ejercicio1a.css" ?>
+<!-- ejercicio1a.xml  ML19017 -->
+<fichero>
+	<ficha id="1" fechaingreso="1/11/2012">
+		<nombre>Antonio</nombre>
+		<apellido>Barbero</apellido>
+		<direccion>Calle de Los Andes, 45</direccion>
+	</ficha>
+	<ficha id="2" fechaingreso="1/11/2019">
+		<nombre>Cristian</nombre>
+		<apellido>Mejia</apellido>
+		<direccion>Calle de Los Andes, 45</direccion>
+		<telefono>5555-1111</telefono>
+		<email>ml19017@ues.edu.sv</email>
+		<website>https://ml19017.github.io/guia21c/</website>
+	</ficha>
+</fichero>
